@@ -18,5 +18,5 @@ const p = new HelloWord({
     address: 'jiangsu',
 });
 // console.log()
-
 console.log('p: ', JSON.stringify(p, null, 2));
+console.log('wangdm');
