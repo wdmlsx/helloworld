@@ -20,3 +20,5 @@ const p = new HelloWord({
 // console.log()
 console.log('p: ', JSON.stringify(p, null, 2));
 console.log('wangdm');
+console.log('hanxn');
+console.log('lsx');
